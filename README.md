@@ -34,7 +34,7 @@ Project ini dibuat dengan memanfaatkan beberapa teknologi:
 
 ## 📬 Contact & Social Media
 Tetap terhubung dengan saya melalui:
-- **LinkedIn:** [Alfa Rizki](https://www.linkedin.com/in/alfa-rizki)  
+- **LinkedIn:** [Alfa Rizki](https://www.linkedin.com/in/alfa-rizki-24b7b6382/)  
 - **GitHub:** [paalskie-og](https://github.com/paalskie-og)
 
 ---
