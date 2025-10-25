@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-alfa-rizki",
+  "version": "1.0.0",
+  "description": "Pure HTML & CSS Portfolio Website - Alfa Rizki",
+  "scripts": {
+    "dev": "echo 'Open public/index.html in your browser'",
+    "build": "echo 'No build required - using pure HTML/CSS'",
+    "start": "echo 'Serving static files from public/'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "html",
+    "css",
+    "static-website"
+  ],
+  "author": "Alfa Rizki <alfa.rizki25@gmail.com>",
+  "license": "MIT"
+}
