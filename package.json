@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 7dcb7b3 (prepare for vercel deployment)
 {
   "name": "portfolio-website",
   "version": "0.1.0",
@@ -53,11 +50,7 @@
   "devDependencies": {
     "@types/node": "^20.10.0",
     "@vitejs/plugin-react-swc": "^3.10.2",
-<<<<<<< HEAD
     "vite": "6.3.5"
-=======
-    "vite": "^6.3.5"
->>>>>>> 7dcb7b3 (prepare for vercel deployment)
   },
   "scripts": {
     "dev": "vite",
